@@ -1,0 +1,15 @@
+{
+  "age": 32,
+  "age_range": "28–36",
+  "gender": "Man",
+  "dominant_emotion": "fear",
+  "emotions": {
+    "angry": 0.2,
+    "disgust": 0.0,
+    "fear": 57.1,
+    "happy": 0.0,
+    "sad": 42.7,
+    "surprise": 0.0,
+    "neutral": 0.0
+  }
+}
