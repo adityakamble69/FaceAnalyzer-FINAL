@@ -2,7 +2,6 @@
 face_analyzer.py
 ================
 Local .h5 models se Age, Gender, Emotion detect karta hai.
-Koi API nahi! Results save bhi ho sakte hain.
 
 Folder structure:
     face_analyzer/

@@ -1,7 +1,6 @@
 """
 api_client.py
-=============
-Claude Vision API se face analysis karta hai.
+
 """
 
 import base64
