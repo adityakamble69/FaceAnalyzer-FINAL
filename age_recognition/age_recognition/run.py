@@ -11,7 +11,7 @@ import sys
 # ─────────────────────────────────────────
 
 DATASET_PATH = "dataset"
-MODEL_PATH   = "model/age_model.yml"
+MODEL_PATH   = "model/age_model.h5"
 IMG_SIZE     = (200, 200)
 
 AGE_GROUPS = {
